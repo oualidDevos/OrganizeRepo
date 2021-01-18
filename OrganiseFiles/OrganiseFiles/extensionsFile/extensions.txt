@@ -1,0 +1,33 @@
+docx,Documents
+xls,Documents
+xapk,Applications
+js,Programming
+jpeg,Images
+cs,Programming
+aac,Music
+msi,Applications
+mp3,Music
+exe,Applications
+pps,Documents
+py,Programming
+apk,Applications
+webm,Videos
+docm,Documents
+raw,Images
+doc,Documents
+ppt,Documents
+db,Base de donneé
+pdf,Documents
+sql,Base de donneé
+torrent,Uttorent Files
+xslx,Documents
+mkv,Videos
+avi,Videos
+png,Images
+wav,Music
+accdb,Base de donneé
+jpg,Images
+zip,Winrar
+rar,Winrar
+jfif,Images
+mp4,Videos

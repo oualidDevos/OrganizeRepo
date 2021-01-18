@@ -1,0 +1,10 @@
+c:\users\abdel\onedrive\documents\visual studio 2015\Projects\OrganiseFiles\OrganiseFiles\bin\Debug\OrganiseFiles.exe.config
+c:\users\abdel\onedrive\documents\visual studio 2015\Projects\OrganiseFiles\OrganiseFiles\bin\Debug\OrganiseFiles.exe
+c:\users\abdel\onedrive\documents\visual studio 2015\Projects\OrganiseFiles\OrganiseFiles\bin\Debug\OrganiseFiles.pdb
+c:\users\abdel\onedrive\documents\visual studio 2015\Projects\OrganiseFiles\OrganiseFiles\obj\Debug\OrganiseFiles.csprojResolveAssemblyReference.cache
+c:\users\abdel\onedrive\documents\visual studio 2015\Projects\OrganiseFiles\OrganiseFiles\obj\Debug\OrganiseFiles.Form1.resources
+c:\users\abdel\onedrive\documents\visual studio 2015\Projects\OrganiseFiles\OrganiseFiles\obj\Debug\OrganiseFiles.Properties.Resources.resources
+c:\users\abdel\onedrive\documents\visual studio 2015\Projects\OrganiseFiles\OrganiseFiles\obj\Debug\OrganiseFiles.csproj.GenerateResource.Cache
+c:\users\abdel\onedrive\documents\visual studio 2015\Projects\OrganiseFiles\OrganiseFiles\obj\Debug\OrganiseFiles.exe
+c:\users\abdel\onedrive\documents\visual studio 2015\Projects\OrganiseFiles\OrganiseFiles\obj\Debug\OrganiseFiles.pdb
+C:\Users\abdel\onedrive\documents\visual studio 2015\Projects\OrganiseFiles\OrganiseFiles\obj\Debug\OrganiseFiles.ExtractPath.resources
